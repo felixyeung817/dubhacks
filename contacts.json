@@ -1,0 +1,23 @@
+[
+  {
+    "name":"Ian Hoegen",
+    "phone":"2533281936",
+    "picture":"http://i.imgur.com/8IRCtpa.jpg",
+    "email":"ianhoegen@gmail.com",
+    "id":1
+  },
+  {
+    "name":"Felix Yeung",
+    "phone":"2123803038",
+    "picture":"https://scontent.xx.fbcdn.net/v/t1.0-9/10411905_10152155136488907_8521039033754821511_n.jpg?oh=7138ec202dd9ea9a9dc32d5b25607e82&oe=58A19CF7",
+    "email":"felix817@uw.edu",
+    "id":2
+  },
+  {
+    "name":"Diana Yeung",
+    "phone":"1234567890",
+    "picture":"https://scontent.xx.fbcdn.net/v/t1.0-9/12310634_10153118512451401_525600600388851342_n.jpg?oh=b48c707c26cd8b71df03de7d32ca9dd2&oe=586404B6",
+    "email":"diana@gmail.com",
+    "id":3
+  }
+]
